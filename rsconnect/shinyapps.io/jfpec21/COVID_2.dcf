@@ -1,0 +1,13 @@
+name: COVID_2
+title: COVID_2
+username:
+account: jfpec21
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5301951
+bundleId: 5352915
+url: https://jfpec21.shinyapps.io/COVID_2/
+when: 1639093968.34093
+lastSyncTime: 1639093968.34093
+asMultiple: FALSE
+asStatic: FALSE
