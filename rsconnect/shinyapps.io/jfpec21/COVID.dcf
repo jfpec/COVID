@@ -1,0 +1,13 @@
+name: COVID
+title: COVID
+username:
+account: jfpec21
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5294346
+bundleId: 5348504
+url: https://jfpec21.shinyapps.io/COVID/
+when: 1639023712.80209
+lastSyncTime: 1639023712.80209
+asMultiple: FALSE
+asStatic: FALSE
